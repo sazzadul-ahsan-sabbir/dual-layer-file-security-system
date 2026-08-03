@@ -1,0 +1,15 @@
+# Never commit real secret keys
+*.key
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
